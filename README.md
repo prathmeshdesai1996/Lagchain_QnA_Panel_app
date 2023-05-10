@@ -2,6 +2,7 @@
 This project is a Python-based application for Question Answering using PDF documents. It uses the LangChain library which provides an easy-to-use interface for creating Question Answering systems.
 
 [Streamlit Webapp](https://prathmeshdesai1996-lagchain-qna-panel-app-streamlit-nlnp7d.streamlit.app/)
+[HuggingFace Webapp](https://huggingface.co/spaces/pd96/QnA_with_custom_pdf_langchain)
 
 ## Installation
 To use this application, you need to install the following dependencies:
